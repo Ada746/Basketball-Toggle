@@ -17,3 +17,7 @@ When the toggle is clicked, a basketball jumps toward the hoop and drops into th
 ## How to Run
 1. Download the project
 2. Open `index.html` in your browser
+
+## Preview
+
+![Project Preview](basketball-toggle.gif)
